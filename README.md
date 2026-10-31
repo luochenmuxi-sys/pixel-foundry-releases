@@ -63,3 +63,15 @@ Windows 64 位桌面工具，素材在本机处理，无需安装 Node.js 或启
 - 安装包暂未配置 Windows 发布者数字签名。
 
 素材处理不上传图片或视频。联网更新将访问本仓库的发布地址。本仓库用于分发安装包和说明，不包含用户测试素材。
+
+
+## 软件界面
+
+图片处理工作区：
+
+<img width="1429" height="935" alt="软件界面-图片" src="https://github.com/user-attachments/assets/1e2b51d7-6874-4abd-abd8-1208227b3d27" />
+
+
+联网更新界面（升级验证）：
+
+<img width="1429" height="935" alt="软件界面-联网更新" src="https://github.com/user-attachments/assets/5bd78dba-b28f-442f-9f78-048b34f7edd1" />
